@@ -29,4 +29,7 @@ changing an index to datetime
 
 # joining two dateframes
 df1.join(df2)
+# computing percent changes and differences of a time series
+df['col'].pct_change()
+df['col'].diff()
 
