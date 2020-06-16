@@ -1,3 +1,4 @@
+# notes
 #  python packages to perform regression 
 
 1)in statsmodels.api as sm
