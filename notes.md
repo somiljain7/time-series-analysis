@@ -38,3 +38,4 @@ df['abc'].corr(df['xyz'])
 # The positive correlation
 means that when interest rates go down, stock prices go down. For example, during crises like 9/11, investors sold stocks and moved their money to less risky bonds (this is sometimes referred to as a 'flight to quality'). During these periods, stocks drop and interest rates drop as well. Of course, there are times when the opposite relationship holds too.
 
+# A first step when analyzing a time series is to visualize the data with a plot. 
