@@ -16,4 +16,5 @@ stats.linregress(x,y)
 
 # correlation=sqrt(Rsquare)
 # Autocorrelation is corr of a single time series with a lagged copy of itself
-#
+# with financial time series when returns have a negative autocorrelation it is mean reverting for vice versa condition trend following
+
