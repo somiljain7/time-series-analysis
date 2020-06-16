@@ -32,4 +32,6 @@ df1.join(df2)
 # computing percent changes and differences of a time series
 df['col'].pct_change()
 df['col'].diff()
+# pandas correlation method of series
+df['abc'].corr(df['xyz'])
 
