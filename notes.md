@@ -1,4 +1,4 @@
-python packages to perform regression 
+#  python packages to perform regression 
 
 1)in statsmodels.api as sm
 sm.OLS(y,x).fit()
@@ -14,5 +14,6 @@ from scipy import stats
 stats.linregress(x,y)
 
 
-correlation=sqrt(Rsquare)
-
+# correlation=sqrt(Rsquare)
+# Autocorrelation is corr of a single time series with a lagged copy of itself
+#
