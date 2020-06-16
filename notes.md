@@ -27,4 +27,6 @@ alpha sets width of confidence interval
 # df,index = pd.to_datetime(df.index)
 changing an index to datetime
 
+# joining two dateframes
+df1.join(df2)
 
