@@ -24,4 +24,7 @@ lags = how many lags of the autocorrelation function will be plotted
 alpha sets width of confidence interval 
 
 # to_datetime() is used to convert an index often read in as a string into a datetime index
+# df,index = pd.to_datetime(df.index)
+changing an index to datetime
+
 
