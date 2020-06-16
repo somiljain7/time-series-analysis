@@ -34,4 +34,5 @@ df['col'].pct_change()
 df['col'].diff()
 # pandas correlation method of series
 df['abc'].corr(df['xyz'])
+# correlation coefficient is ameasure of how much two series vary together
 
