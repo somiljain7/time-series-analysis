@@ -18,4 +18,8 @@ stats.linregress(x,y)
 # correlation=sqrt(Rsquare)
 # Autocorrelation is corr of a single time series with a lagged copy of itself
 # with financial time series when returns have a negative autocorrelation it is mean reverting for vice versa condition trend following
+# plot_acf is statsmodels function for plotting the autocorrelation function
+input x is a series or array
+lags = how many lags of the autocorrelation function will be plotted
+alpha sets width of confidence interval 
 
