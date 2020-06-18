@@ -41,3 +41,4 @@ means that when interest rates go down, stock prices go down. For example, durin
 # A first step when analyzing a time series is to visualize the data with a plot. 
 
 # Autoregressive integrated moving average model (ARIMA)
+An Arima model is a class of statistical models for analyzing and forecasting time series data.
