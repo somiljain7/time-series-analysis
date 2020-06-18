@@ -42,3 +42,8 @@ means that when interest rates go down, stock prices go down. For example, durin
 
 # Autoregressive integrated moving average model (ARIMA)
 An Arima model is a class of statistical models for analyzing and forecasting time series data.
+
+AR: Autoregression. A model that uses the dependent relationship between an observation and some number of lagged observations.
+
+I: Integrated. The use of differencing of raw observations (e.g. subtracting an observation from an observation at the previous time step) in order to make the time series stationary.
+
