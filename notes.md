@@ -49,3 +49,4 @@ I: Integrated. The use of differencing of raw observations (e.g. subtracting an 
 
 MA: Moving Average. A model that uses the dependency between an observation and a residual error from a moving average model applied to lagged observations.
 
+# The parameters of the ARIMA model are defined as follows:
